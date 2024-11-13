@@ -1,0 +1,3 @@
+<h2>Tentang Kami</h2>
+            <p>Selamat datang di situs resmi kami, tempat anda menemukan berbagai macam alat tulis berkualitas tinggi untuk mendukung kebutuhan pendidikan, pekerjaan, maupun aktivitas sehari-hari. Kami memahami pentingnya alat tulis dalam membantu anda untuk mencapa tujuan yang lebih efesien dan nyaman. oleh karena itu kami tidak hanya menyediakan produk yang berkialitas saja, tetapi juga sesuai dengan berbagai preferensi dan kebutuhan anda.</p>
+            <p>Terima kasih telah memilih kamisebagai mitra dalam memenuhi kebutuhan alat tulis anda. Kami berharap website ini dapat memberikan solusipraktis dan terpercaya untuk segala keperluan anda.</p>
